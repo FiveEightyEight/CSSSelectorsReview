@@ -1,0 +1,11 @@
+.item-one .tagged {
+    color: red;
+}
+
+.tagged {
+    color: green;
+}
+
+.ul-1 .tagged {
+    border: 5px solid green;
+}
